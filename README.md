@@ -7,7 +7,7 @@ EduManage is a robust and user-friendly platform designed using the MERN stack (
 
 ## 🚪 Admin Access
 - **Admin Email:** k@m.com
-- **Admin Password:** Mekat123
+- **Admin Password:** Komol123
 
 ---
 
